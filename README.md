@@ -44,11 +44,20 @@ Thống kê học lực (giỏi, khá, trung bình…) theo điểm trung bình.
 
 # TẠO CÁC BẢNG CÓ LIÊN QUAN ĐẾN ĐIỂM CỦA HS CẤP 3
 ## TẠO BẢNG HS (ID_HS(PK),TenHS,GioiTinh,NgaySinh,ID_Lop(FK)
+![image](https://github.com/user-attachments/assets/80e7d17d-3f27-42cb-bc66-eebda8b9740c)
 ## TẠO BẢNG GV(ID_GV(PK),MaGV,HoTen,ChuyeenMOn)
+![image](https://github.com/user-attachments/assets/e7bfdf28-cb23-4435-8af1-329b55b5d7fc)
 ## BẢNG MONHOC (ID_MH(PK),MAMH,TENMH,ID_GV(FK)
+![image](https://github.com/user-attachments/assets/0fc01ddd-6e52-416a-a244-7b8038264ccd)
+
 ## BẢNG LỚP (ID_LỚP(PK),TENLOP,NAMHOC,ID_GV(FK)
+![image](https://github.com/user-attachments/assets/aa551e34-e8e2-492c-b001-32ff47de9c0d)
 ## BẢNG HK(ID_HK,TENHK,NAMHOC
 ## BẢNG Phân Công Dạy :ID_PCD(PK),ID_GV(FK),ID_MH(FK),ID_LOP(FK),MAGV,NAMHOC
+![image](https://github.com/user-attachments/assets/176aed08-30ac-40f7-a2ba-867b4f4cbb2d)
 ## BẢNG ĐIỂM :ID_Diem(PK),ID_HS(FK),ID_HK(FK),ID_MH ĐIEM MIENG,DIEM 15P,ĐIỂM THI,ĐIỂMTB(TÍNH BẰNG TRIGGER)
+![image](https://github.com/user-attachments/assets/e5d6bd41-f2f9-4d93-bb25-6ab755df3c31)
 ## BẢNG NGƯỜI DUNG:ID_ND(PK),TENND,ID_HS(FK),ID_GV(FK)
+![image](https://github.com/user-attachments/assets/d07d7075-21cb-4332-bddf-affebb8f287e)
+
 
