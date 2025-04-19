@@ -59,5 +59,11 @@ Thống kê học lực (giỏi, khá, trung bình…) theo điểm trung bình.
 ![image](https://github.com/user-attachments/assets/e5d6bd41-f2f9-4d93-bb25-6ab755df3c31)
 ## BẢNG NGƯỜI DUNG:ID_ND(PK),TENND,ID_HS(FK),ID_GV(FK)
 ![image](https://github.com/user-attachments/assets/d07d7075-21cb-4332-bddf-affebb8f287e)
-
+## TẠO CK CHO BẢNG ĐIÊM
+### ĐIEMMIENG
+![image](https://github.com/user-attachments/assets/a05afb16-f99a-499b-a151-6e5d773f5a70)
+### ĐIỂM 15P
+![image](https://github.com/user-attachments/assets/f3527342-da7e-4977-9b29-0e3cd2214a4b)
+### DIEM THI
+![image](https://github.com/user-attachments/assets/ace3caae-6042-487b-a9b0-3b8f7d26c1fa)
 
