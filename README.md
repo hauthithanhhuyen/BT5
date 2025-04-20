@@ -68,15 +68,22 @@ Thống kê học lực (giỏi, khá, trung bình…) theo điểm trung bình.
 ![image](https://github.com/user-attachments/assets/ace3caae-6042-487b-a9b0-3b8f7d26c1fa)
 # 3 SỬ DỤNG TRIGGER ĐỂ TÍNH ĐIỂMTB CỦA BẢNG ĐIỂM
 ## TẠO TRIGGER CHO TRG_DiểmTB
-![image](https://github.com/user-attachments/assets/860bdd55-4f30-47ef-9ff6-ca41cb7cba9a)
+![image](https://github.com/user-attachments/assets/edd0d30b-1d39-485d-9643-185538b3aaf1)
+
 ## Khi tạo xong bảng TRiGGER xong thi sẽ hiện bảng
-![image](https://github.com/user-attachments/assets/8e80f2ab-9d1e-4ba2-aa53-dbaae6eccb08)
-## Kiểm tra S khi tạo trigger xong, kiểm tra xem đã cập nhập
-![image](https://github.com/user-attachments/assets/13b87af3-1db7-48f0-aa50-4193d72276bc)
-## Bảng Kết quả đạt được
-![image](https://github.com/user-attachments/assets/a1a9be1f-184e-4ba6-8565-5a2e0231f99b)
+![image](https://github.com/user-attachments/assets/635e62bd-f839-4259-9903-66ada8240d50)
+## Kiểm tra S khi tạo trigger xong, kiểm tra xem đã cập nhập,đây là gtri ban đầu của ID_HS 14
+![image](https://github.com/user-attachments/assets/fd5ff3d0-7168-4571-8e15-f59f6c51252e)
+## Sau khi thay đổi
+![image](https://github.com/user-attachments/assets/c1e9fadf-cf99-4be2-96b7-e0be755e276c)
 
 # Việc sử dụng TRIGGER trong 
 # Bảng Điểm để tính Điểm TB có thể tự động hóa 1 số thao tác
 # Có thể triiger tự động cập nhập các bảng liên quan
 # Tự động tính toán cập nhật các gtri có sự thay đổi
+# TẠO 1 BẢNG LOG_DIEM
+![image](https://github.com/user-attachments/assets/a28f9ea3-2c69-407a-9d96-225d3f6f559e)
+## Dùng để ghi lại lịch sử thay đổi điểm dưới đây là kết quả khi thay đổi
+![image](https://github.com/user-attachments/assets/0b598f67-a3eb-476f-b808-ce97597fe4a2)
+
+
