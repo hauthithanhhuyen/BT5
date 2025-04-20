@@ -66,4 +66,9 @@ Thống kê học lực (giỏi, khá, trung bình…) theo điểm trung bình.
 ![image](https://github.com/user-attachments/assets/f3527342-da7e-4977-9b29-0e3cd2214a4b)
 ### DIEM THI
 ![image](https://github.com/user-attachments/assets/ace3caae-6042-487b-a9b0-3b8f7d26c1fa)
-
+# SỬ DỤNG TRIGGER ĐỂ TÍNH ĐIỂMTB CỦA BẢNG ĐIỂM
+## TẠO TRIGGER CHO TRG_DiểmTB
+![image](https://github.com/user-attachments/assets/860bdd55-4f30-47ef-9ff6-ca41cb7cba9a)
+## Khi tạo xong bảng TRiGGER xong thi sẽ hiện bảng
+![image](https://github.com/user-attachments/assets/8e80f2ab-9d1e-4ba2-aa53-dbaae6eccb08)
+## Kiểm tra S khi tạo trigger xong, thêm một bản ghi mới
