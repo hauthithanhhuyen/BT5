@@ -73,6 +73,9 @@ Thống kê học lực (giỏi, khá, trung bình…) theo điểm trung bình.
 ![image](https://github.com/user-attachments/assets/8e80f2ab-9d1e-4ba2-aa53-dbaae6eccb08)
 ## Kiểm tra S khi tạo trigger xong, kiểm tra xem đã cập nhập
 ![image](https://github.com/user-attachments/assets/13b87af3-1db7-48f0-aa50-4193d72276bc)
+## Bảng Kết quả đạt được
+![image](https://github.com/user-attachments/assets/a1a9be1f-184e-4ba6-8565-5a2e0231f99b)
+
 # Việc sử dụng TRIGGER trong 
 # Bảng Điểm để tính Điểm TB có thể tự động hóa 1 số thao tác
 # Có thể triiger tự động cập nhập các bảng liên quan
