@@ -45,7 +45,7 @@ Thống kê học lực (giỏi, khá, trung bình…) theo điểm trung bình.
 # TẠO CÁC BẢNG CÓ LIÊN QUAN ĐẾN ĐIỂM CỦA HS CẤP 3
 ## TẠO BẢNG HS (ID_HS(PK),TenHS,GioiTinh,NgaySinh,ID_Lop(FK)
 ![image](https://github.com/user-attachments/assets/80e7d17d-3f27-42cb-bc66-eebda8b9740c)
-## TẠO BẢNG GV(ID_GV(PK),MaGV,HoTen,ChuyeenMOn)
+# TẠO BẢNG GV(ID_GV(PK),MaGV,HoTen,ChuyeenMOn)
 ![image](https://github.com/user-attachments/assets/e7bfdf28-cb23-4435-8af1-329b55b5d7fc)
 ## BẢNG MONHOC (ID_MH(PK),MAMH,TENMH,ID_GV(FK)
 ![image](https://github.com/user-attachments/assets/0fc01ddd-6e52-416a-a244-7b8038264ccd)
@@ -66,9 +66,14 @@ Thống kê học lực (giỏi, khá, trung bình…) theo điểm trung bình.
 ![image](https://github.com/user-attachments/assets/f3527342-da7e-4977-9b29-0e3cd2214a4b)
 ### DIEM THI
 ![image](https://github.com/user-attachments/assets/ace3caae-6042-487b-a9b0-3b8f7d26c1fa)
-# SỬ DỤNG TRIGGER ĐỂ TÍNH ĐIỂMTB CỦA BẢNG ĐIỂM
+# 3 SỬ DỤNG TRIGGER ĐỂ TÍNH ĐIỂMTB CỦA BẢNG ĐIỂM
 ## TẠO TRIGGER CHO TRG_DiểmTB
 ![image](https://github.com/user-attachments/assets/860bdd55-4f30-47ef-9ff6-ca41cb7cba9a)
 ## Khi tạo xong bảng TRiGGER xong thi sẽ hiện bảng
 ![image](https://github.com/user-attachments/assets/8e80f2ab-9d1e-4ba2-aa53-dbaae6eccb08)
-## Kiểm tra S khi tạo trigger xong, thêm một bản ghi mới
+## Kiểm tra S khi tạo trigger xong, kiểm tra xem đã cập nhập
+![image](https://github.com/user-attachments/assets/13b87af3-1db7-48f0-aa50-4193d72276bc)
+# Việc sử dụng TRIGGER trong 
+# Bảng Điểm để tính Điểm TB có thể tự động hóa 1 số thao tác
+# Có thể triiger tự động cập nhập các bảng liên quan
+# Tự động tính toán cập nhật các gtri có sự thay đổi
